@@ -1,0 +1,1 @@
+iverilog -o mux_4to1_sim src/mux_4to1.v testbench/mux_4to1_tb.v
